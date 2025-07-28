@@ -24,7 +24,7 @@ The machine learning analysis was conducted using Python 3.12 and relevant packa
 
 ---
 
-## ⚙Software Metadata
+## Software Metadata
 
 - **Software name**: Python  
 - **Programming language**: Python (version 3.12)  
