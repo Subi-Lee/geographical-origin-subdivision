@@ -1,0 +1,23 @@
+
+File name: sample_data.csv
+
+Description:
+This dataset contains geochemical and isotopic variables used to classify the geographical origin of soil samples in South Korea. The data is anonymized and contains synthetic samples that mirror the structure of the original dataset.
+
+Column descriptions:
+1. EF_87Sr/86Sr       - Exchangeable fraction strontium isotope ratio (unitless)
+2. Sr                 - Exchangeable fraction Sr concentration (mg/kg)
+3. Soilforest_87Sr/86Sr - Bioavailable 87Sr/86Sr isotope ratio (unitless), computed from exchangeable and carbonate fractions
+4. SiO2               - Silicon dioxide content (wt%)
+5. Al2O3              - Aluminum oxide content (wt%)
+6. Fe2O3              - Iron oxide content (wt%)
+7. CaO                - Calcium oxide content (wt%)
+8. MgO                - Magnesium oxide content (wt%)
+9. K2O                - Potassium oxide content (wt%)
+10. Na2O              - Sodium oxide content (wt%)
+11. TiO2              - Titanium dioxide content (wt%)
+12. MnO               - Manganese oxide content (wt%)
+13. P2O5              - Phosphorus pentoxide content (wt%)
+14. Ig.loss           - Ignition loss, used as a proxy for organic matter or carbonates (wt%)
+
+All data were obtained from dried, sieved (<2 mm) surface soil samples collected at ~20 cm depth using standard geochemical protocols.
